@@ -1,4 +1,4 @@
-#include <iostream> // Librería estándar de entrada y salida
+#include <iostream> // Librería de entrada y salida
 #include <vector>   // Librería para usar arrays dinámicos (vectores)
 
 using namespace std; // Evita escribir 'std::' antes de cada comando
@@ -42,5 +42,5 @@ int main() { // Punto de inicio del programa
 
     cout << endl; // Añade un salto de línea limpio al final
 
-    return 0; // Termina el programa con éxito
+    return 0; // Termina el programa con éxito retornando a cero
 } // Fin de la función principal
