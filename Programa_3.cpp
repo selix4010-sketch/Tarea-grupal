@@ -61,12 +61,12 @@ int main() {
     if (existeDiaSinVenta) {
 
         // Mensaje cuando sí hubo un día sin ventas
-        cout << "Hubo al menos un dia sin ventas." << endl;
+        cout << "al menos hubo un dia sin ventas." << endl;
     }
     else {
 
         // Mensaje cuando todos los días tuvieron ventas
-        cout << "Todos los dias registraron ventas." << endl;
+        cout << "se registraron ventas todos los dias." << endl;
     }
 
     // Indica que el programa terminó correctamente
